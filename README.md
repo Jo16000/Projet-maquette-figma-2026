@@ -1,15 +1,15 @@
 # Devoir‑Maquettes‑Figma
 
-Ce dépôt contient le fichier de maquette Figma utilisé pour le devoir de maquettes.
+Ce dépôt contient la maquette réalisée dans le cadre du devoir de conception sur Figma.
 
-## Contenu
-- `Projets‑Maquettes‑avec‑Figma.fig` : Le fichier Figma principal.
+## 📁 Contenu du dépôt
+- `Documents/Projets‑Maquettes‑avec‑Figma.fig` : fichier Figma principal du projet.
 
-## Comment l'ouvrir ?
-Pour visualiser la maquette :
-1. Télécharge le fichier `.fig` depuis ce dépôt.
-2. Ouvre l’application Figma (en ligne ou bureau).
-3. Import le fichier pour le visualiser ou le modifier.
+## 🖼️ Comment ouvrir la maquette ?
+1. Télécharge le fichier `.fig` depuis le dossier **Documents**.
+2. Ouvre Figma (version web ou application).
+3. Glisse‑dépose le fichier dans Figma pour l’importer.
+4. La maquette sera alors visible et modifiable.
 
-## Note
-Ce dépôt se concentre uniquement sur le fichier `.fig`. Aucune autre ressource n’est incluse pour le moment.
+## ℹ️ Informations
+Ce dépôt est volontairement minimal et contient uniquement le fichier source Figma du projet.
